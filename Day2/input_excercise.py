@@ -1,0 +1,5 @@
+name = input("Enter your name: ")
+print(name)
+length_of_name = len(name)
+print(length_of_name)
+print("Hello " + name + "! Your name has " + str(length_of_name) + " characters.")
